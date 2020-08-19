@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lesson5_HW_Task5\Lesson5_HW_Task5\bin\Debug\Lesson5_HW_Task5.exe.config
+C:\Users\User\source\repos\Lesson5_HW_Task5\Lesson5_HW_Task5\bin\Debug\Lesson5_HW_Task5.exe
+C:\Users\User\source\repos\Lesson5_HW_Task5\Lesson5_HW_Task5\bin\Debug\Lesson5_HW_Task5.pdb
+C:\Users\User\source\repos\Lesson5_HW_Task5\Lesson5_HW_Task5\obj\Debug\Lesson5_HW_Task5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lesson5_HW_Task5\Lesson5_HW_Task5\obj\Debug\Lesson5_HW_Task5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson5_HW_Task5\Lesson5_HW_Task5\obj\Debug\Lesson5_HW_Task5.exe
+C:\Users\User\source\repos\Lesson5_HW_Task5\Lesson5_HW_Task5\obj\Debug\Lesson5_HW_Task5.pdb

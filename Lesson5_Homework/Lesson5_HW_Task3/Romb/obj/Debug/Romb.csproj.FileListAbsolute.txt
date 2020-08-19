@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lesson5_HW_Task3\Romb\bin\Debug\Romb.exe.config
+C:\Users\User\source\repos\Lesson5_HW_Task3\Romb\bin\Debug\Romb.exe
+C:\Users\User\source\repos\Lesson5_HW_Task3\Romb\bin\Debug\Romb.pdb
+C:\Users\User\source\repos\Lesson5_HW_Task3\Romb\obj\Debug\Romb.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lesson5_HW_Task3\Romb\obj\Debug\Romb.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson5_HW_Task3\Romb\obj\Debug\Romb.exe
+C:\Users\User\source\repos\Lesson5_HW_Task3\Romb\obj\Debug\Romb.pdb
